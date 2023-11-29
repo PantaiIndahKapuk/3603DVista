@@ -1,0 +1,61 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 3603DVista
+
+## Skin
+
+### Button
+Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
+
+### Multiline Text
+HTMLText_0F5868F8_19DB_1867_41AA_C274501093D3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Before</SPAN></DIV></div>
+HTMLText_0F58A8FB_19DB_1859_41A6_497E01D11BF7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">After</SPAN></DIV></div>
+HTMLText_0F88B38C_19C5_08A5_4183_A5846BF4BCE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Before</SPAN></DIV></div>
+HTMLText_0F88D391_19C5_08BF_41B1_BE528A21574E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">After</SPAN></DIV></div>
+HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000027vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
+HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
+HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
+HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Subtitle
+panorama_CA8B7955_DBA3_277F_41BB_1A6F17DC9E90.subtitle = Merupakan compact living room yang mampu mengakomodir beberapa aktivitas di rumah mulai dari dapur, r.makan, dan juga r. bersantai
+panorama_D4E0427B_DBA3_252B_41DA_B5635F901F70.subtitle = Merupakan landed housing dengan 3 tipe unit yang berdekatan dengan rukan tematik osaka di tepi jalan boulevard osaka
+panorama_D4E35999_DBA3_67F7_41D2_B1A6AA394504.subtitle = Merupakan salah satu open layout office di area tower office Osaka yang juga berdekatan dengan Rukan Osaka dan Osaka Residence
+panorama_D4E376E1_DBA3_2D57_41CE_70979B266ED3.subtitle = Merupakan salah satu kawasan one stop living di PIK2 dengan berbagai fasilitas, mulai dari hunian, pusat perbelanjaan, hingga perkantoran
+
+### Title
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911.label = Photo Album 048_ProjectPIK2 (RukanEuroAsia)_View01Paris_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_0.label = 048_ProjectPIK2 (RukanEuroAsia)_View01Paris_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_1.label = 048_ProjectPIK2 (RukanEuroAsia)_View02French_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_2.label = 048_ProjectPIK2 (RukanEuroAsia)_View03Spain_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_3.label = 048_ProjectPIK2 (RukanEuroAsia)_View04London_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_4.label = 048_ProjectPIK2 (RukanEuroAsia)_View05German_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_5.label = 048_ProjectPIK2 (RukanEuroAsia)_View06Prague_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_6.label = 048_ProjectPIK2 (RukanEuroAsia)_View07Korea_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_7.label = 048_ProjectPIK2 (RukanEuroAsia)_View08Jepang_Final
+album_9EE19620_DDA1_6CD5_41EA_BEEAB00C7911_8.label = 048_ProjectPIK2 (RukanEuroAsia)_View09China_Final
+map_ECF1A18D_DDE1_27EF_41E8_8CE6824EFCCC.label = Tipe 3.5x9 Lv.1
+panorama_0A88085F_19DC_F840_417F_D52326431F59.label = 360Ecopark_View06_HajiLane_DraftFinal
+panorama_0A88CA1D_19DD_1BC0_41A1_29DAE2371BCA.label = 360Ecopark_View06_HajiLane_Final
+panorama_0AB23B0B_19DB_39C0_41B9_1BEFD79B62E6.label = 360Ecopark_View01_EcoParkBEV_Final
+panorama_0CD4E8D3_19DB_1847_41B1_767A9446DD48.label = 360Ecopark_View01_EcoParkBEV_DraftFinal
+panorama_CA8B7955_DBA3_277F_41BB_1A6F17DC9E90.label = 3.5x9 Living Room
+panorama_D4E0427B_DBA3_252B_41DA_B5635F901F70.label = Osaka Residence
+panorama_D4E068DF_DBA3_656B_41D6_81AB302EBEA7.label = PerennialBusinessCity_ViewL2 Unfitted_FinalRev3 A
+panorama_D4E35999_DBA3_67F7_41D2_B1A6AA394504.label = Perennial Lv.2
+panorama_D4E376E1_DBA3_2D57_41CE_70979B266ED3.label = Area Osaka
+video_CB29F716_DBA0_ECFD_41D9_2AC2EA550A75.label = Citra8BlokE(Animation)_LowRes_FinalRev02
+
+## Action
+
+### URL
+LinkBehaviour_8A1C3DF1_DCAF_1F37_41E4_FFFE7C8C2C46.source = http://www.loremipsum.com
+PopupWebFrameBehaviour_924281A9_DCA3_27D7_41CC_031117F0EC21.url = https://sketchfab.com/models/6708f383a4334b53b17784f8f2d16215/embed
+PopupWebFrameBehaviour_9B40E8C5_DCA3_655F_41E6_2490D8B3D0EF.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.7753714044097!2d106.68113330503394!3d-6.0561936079961205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a051c4d8f4571%3A0xbcdde849e832d8d!2sPik%202%20osaka!5e0!3m2!1sen!2sid!4v1700221045785!5m2!1sen!2sid
